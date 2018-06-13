@@ -1,0 +1,1 @@
+0x0fb1503f044d08cfc491b38332d23b89a8baf17c104f84b3822924b5b6f49ca8;Function: changeController(address _newController)

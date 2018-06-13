@@ -1,0 +1,3 @@
+0x32cb7762c2771587b6b2f221ca735f35754f671fb94ba0cea8bca089bb7c2e7a;Function: transfer(address _to, uint256 _value)
+0x20df57c04c2a148700c530accc5ec0832259ee91aca7fefcc32fae6b9802528f;Function: setAllowTransfers(bool _allowTransfers)
+0x9ee56881c5c3bcf2796954652482c3da23e3102d7755aeeb859bf66456340b95;Function: internalSellTokenFromAdmin(address _to, uint256 _value, bool _lock)

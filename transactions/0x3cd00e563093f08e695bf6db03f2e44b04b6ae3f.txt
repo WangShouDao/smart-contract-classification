@@ -1,0 +1,1 @@
+0xf25093e9c189d890796d4a93e67e1fe2ee3480144ce9da2b39f9505dd574ecb3;Function: setLastCrowdsale(address addr)

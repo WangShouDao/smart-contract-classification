@@ -1,0 +1,6 @@
+0xd9d8feb0fdec6bccf3870ed0385c999b97680f8d67d5fb85795b0afa36bd1743;Function: transfer(address _to, uint256 _amount)
+0x6a9cc572734b4ff3f1b26a64975fe1de15c99ac7b03647e29efc1337aeecf52e;Function: transfer(address _to, uint256 _amount)
+0x0126bedba2ff1a121bcd9f46cf8f6597c0d7be89745b259333753ea6c202f8e2;Function: generateTokens(address _owner, uint256 _amount)
+0xae94383b94e92f64895ef795448066a50daef2603558bccf21e64578cea8a6bf;Function: destroyTokens(address _owner, uint256 _amount)
+0x50c38dc5a39de919dd24bd96df7425c20086fff243a72972431eabe1f7e432af;Function: createCloneToken(string _cloneTokenName, uint8 _cloneDecimalUnits, string _cloneTokenSymbol, uint256 _snapshotBlock, bool _transfersEnabled)
+0x486916f4f1ed70ff356cd1646eab7803b4a7d866c9c34748eeea09a7d70a9b8c;Function: generateTokens(address _owner, uint256 _amount)

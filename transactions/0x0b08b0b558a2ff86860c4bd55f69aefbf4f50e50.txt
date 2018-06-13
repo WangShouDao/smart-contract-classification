@@ -1,0 +1,2 @@
+0xcb770ced561250642a80257ce4f41f1583db26556d5e9d32af60f1a8e3910bd6;Function: buyTokens(address beneficiary)
+0xb1d792f5d4aeda6b60f5c7095dcdeb0fad5aa35b94bcbbbd91208391daed5421;Function: assignTokenContract(address tokenContract)

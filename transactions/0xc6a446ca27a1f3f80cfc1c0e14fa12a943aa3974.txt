@@ -1,0 +1,2 @@
+0x447d62e4b6add727b448abf5ece13ceab3c8b33ee837dc048dd5b94b63bb7765;Function: updateJoinedCrowdsalesMultiple(address[] addrs)
+0x4649b67eaec280637ab72355995350d85503733f7053df623c85ef2697d3e057;Function: setFinalizeAgent(address addr)

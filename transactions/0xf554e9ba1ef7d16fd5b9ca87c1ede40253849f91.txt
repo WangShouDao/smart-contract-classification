@@ -1,0 +1,1 @@
+0x0420862d12c8a721fb88c04d5e61d698487c22c2f66ffd1d5bfded2d7945024d;Function: addMinter(address _minter)

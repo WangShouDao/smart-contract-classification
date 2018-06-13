@@ -1,0 +1,6 @@
+0xc1c96742527ae023dffe070a3d85740b72a7f1301088c95439339e515281a368;Function: transfer(address _to, uint256 _value)
+0x79f9eac964fd1f0fa8ba0544161394c11853465379b3816797f5019b455281a8;Function: setMintAgent(address addr, bool state)
+0x9ecf86e8caa6f17258f84660595eb4f1b5e892b642bc955ed923e10398b3a687;Function: transferOwnership(address newOwner)
+0xa345d90ff868a726f4c53f1e3ed88234d1786d074342dab651b35b022c757dd9;Function: setMintAgent(address addr, bool state)
+0xa027fc39820ce915f6c530c4a1195c87fe7a6450250f63ee89163e6e9c8594e3;Function: setReleaseAgent(address addr)
+0x65784f1e01e53e8b7b601ee965a2b73451c628c9233db297cc4ae9edd1053378;Function: setReservedTokensListMultiple(address[] addrs, uint256[] inTokens, uint256[] inPercentageUnit, uint256[] inPercentageDecimals)

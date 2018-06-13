@@ -1,0 +1,2 @@
+0xe32a312ea4349fb440b8022188bce15a0cc63dd2da72b1bc1f582b1b06a8b710;Function: transfer(address _to, uint256 _value)
+0x33c0d768f87f021d82115e41953f4402768eff0ba8f616734ae141d26f273d37;Function: approve(address _spender, uint256 _value)
